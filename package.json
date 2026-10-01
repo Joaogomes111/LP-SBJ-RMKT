@@ -1,0 +1,11 @@
+{
+  "name": "sbj-capri-lp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/check.mjs"
+  },
+  "engines": { "node": "22.x" }
+}
